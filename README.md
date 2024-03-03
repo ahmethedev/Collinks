@@ -1,9 +1,5 @@
 # Collinks
 
-![Logo](https://img.freepik.com/premium-vector/3d-realistic-bookmark-icon-vector-illustrations_884296-4719.jpg)
-
-
-
 Collinks is a handy tool designed to help you collect, organize, and share your links effortlessly. Say goodbye to endless tabs cluttering your browser and hello to a streamlined way of managing your online resources.
 
 ## Features
