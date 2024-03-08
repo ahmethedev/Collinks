@@ -24,6 +24,7 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
+      {/* TODO */}
         <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
 
         {/* gradient start */}
