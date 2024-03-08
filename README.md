@@ -1,4 +1,4 @@
-# Collinks
+# Collinks TESTS
 
 Collinks is a handy tool designed to help you collect, organize, and share your links effortlessly. Say goodbye to endless tabs cluttering your browser and hello to a streamlined way of managing your online resources.
 
