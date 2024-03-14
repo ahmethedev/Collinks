@@ -1,4 +1,5 @@
 const express = require('express')
+const user = require('./api/user')
 
 module.exports = async (app) => {
     
@@ -6,6 +7,6 @@ module.exports = async (app) => {
     app.use(express.urlencoded(true))
 
     // API's
-
+    user(app) // User API
     
 }
